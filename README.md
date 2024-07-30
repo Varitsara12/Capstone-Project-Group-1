@@ -1,8 +1,39 @@
-# Capstone-Project-Group-1
-## Analysis of the Economic Impact of Tourism in Southeast Asia
-We are a young group of economists working for the International bureau of tourism and we got a new assignment from our head of departmant to analyse the economic impact of tourism on the countries economy in the region of Southeast Asia.  
+# Crime Prevention Bureau (CPB) of Seattle Analysis
 
-  ---
-Important links:  
-[Capstone Requirements](https://docs.google.com/document/d/1k67nkHJBhoNxMBSUH3J3Ng36t4p1zm9O/edit#heading=h.gjdgxs)  
-[Capstone Stakeholder Meetings Expectations](https://docs.google.com/document/d/1RyogQJ6WnbqDS4yKb0wl49HEDsf5ShkOLlloxtr8u_M/edit)
+## Overview
+The Crime Prevention Bureau (CPB) of Seattle is tackling significant crime levels in the city by exploring strategies to reduce or combat it, with a focus on engaging neighborhood communities. We are a young team of data analysts hired by CPB to evaluate the performance of the Micro-Community Policing Plans (MCPP) and Law Enforcement Assisted Diversion (LEAD) projects on specific types of crimes in different neighborhoods.
+
+## Research Question
+**How does the implementation of the community-based initiatives (MCPP and LEAD) contribute to tackling crime issues in different areas of Seattle?**
+
+## Tools
+- **Python**
+- **SQL**
+- **Tableau**
+
+## Data
+- **Datasets:** 5
+- **Rows:** 7 million
+- **Columns:** 203
+- **Date Range:** 2011 to 2023
+
+## Projects
+- **LEAD** (Implemented in 2011)
+- **MCPP** (Implemented in 2015)
+
+## Focus
+- **Criminals and Citizens**: Particularly those whose problematic conduct stems from mental illness, substance abuse, or extreme poverty.
+
+## Community Engagement
+- Building police and community engagement through:
+  - Community meetings
+  - Focus groups
+  - Survey data
+
+## Benefits of Initiatives
+- Reducing recidivism, prison, and jail usage
+- Increasing public safety
+- Reducing crime and preventing violence
+
+**LEAD** specifically aims to address root causes such as homelessness, addiction, and mental health, offering an alternative to the criminal justice system and positively impacting recidivism. Overall, these initiatives seek to create stronger communities with fewer criminals.
+`
