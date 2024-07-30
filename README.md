@@ -1,4 +1,4 @@
-# Crime Prevention Bureau (CPB) of Seattle Analysis
+# Effect of Community-based Initiatives on Crime in Seattle
 
 ## Overview
 The Crime Prevention Bureau (CPB) of Seattle is tackling significant crime levels in the city by exploring strategies to reduce or combat it, with a focus on engaging neighborhood communities. We are a young team of data analysts hired by CPB to evaluate the performance of the Micro-Community Policing Plans (MCPP) and Law Enforcement Assisted Diversion (LEAD) projects on specific types of crimes in different neighborhoods.
